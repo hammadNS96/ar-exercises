@@ -30,7 +30,7 @@ Complete the exercises by modifying the appropriate `exercises/exercise_*.rb` fi
 
 Example:
 
-    bundle exec ruby exercises/exercise_1.rb
+    bundle exec ruby exercises/exercise_2.rb
 
 Follow the instructions to work on the exercises within the `exercises` folder. Each exercise is to be completed in it's appropriate file.
 
